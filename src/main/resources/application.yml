@@ -1,0 +1,7 @@
+fileRepositoryFolder: C:/Users/gabri/FileRepository
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: -1 # No file size limit
+      max-request-size: -1  # No limit on request size
