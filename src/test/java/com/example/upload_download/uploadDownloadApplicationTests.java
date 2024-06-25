@@ -1,10 +1,10 @@
-package com.example.ex23upload_download;
+package com.example.upload_download;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Ex23uploadDownloadApplicationTests {
+class uploadDownloadApplicationTests {
 
 	@Test
 	void contextLoads() {

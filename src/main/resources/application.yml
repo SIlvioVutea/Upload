@@ -1,4 +1,4 @@
-fileRepositoryFolder: C:/Users/gabri/FileRepository
+fileRepositoryFolder: C:/Users/silviovutea/FileRepository
 spring:
   servlet:
     multipart:
